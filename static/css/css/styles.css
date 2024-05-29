@@ -1,0 +1,18 @@
+bbody {
+    font_family:Arial,sans_serif;
+    background_color: #f8f9fa;
+}
+h1,h2 {
+    margin_bttom: 20px;
+}#todo_form .form_control {
+    margin_right: 10px;
+}
+.todo {
+    margin-bottom: 10px;
+    padding: 10px;
+    background_color:#ffffff;
+    border_radius: 5px;
+    box_shadow: 0 1px 3px rgba(0,0,0,0.1);
+}go runtodolistmain.go
+go runtodolistmain.go
+
